@@ -24,4 +24,4 @@ The calculated doses will be outputted in an info dialog box.
 
 Input: Relevant patient information, and medication name
 
-Output: Calculated compounding dose
+Output: Calculated dose
