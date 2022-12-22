@@ -31,10 +31,11 @@ Relevant patient information, and medication name
 Calculated dose
 
 ## [How to run]
-Run the Dosage Calculator.py and DosageCalculator database.pyfrom the terminal using python notebook.py
-The program will accept data from the user and store patient information to the database.
-It will generate graphs and store them in the graphs directory
+Run the Dosage Calculator.py and DosageCalculator_db_fxns.py.
+The program will accept data from the user, calculate the recommended dose and store patient information to the database.
+
 
 ## [Dependencies]
 Tkinter 8.6
+
 MySQL Workbench 8.0.31
