@@ -21,7 +21,9 @@ Functions, Database & GUI.
 
 ### Dataflow/ major functionalities:
 Users will use entry widget to input patient relevant information.
+
 Formulas to be used to calculate the doses will be defined with functions and stored to a database.
+
 The calculated doses will be outputted in an info dialog box.
 
 ### Input: 
@@ -32,6 +34,7 @@ Calculated dose
 
 ## [How to run]
 Run the Dosage Calculator.py and DosageCalculator_db_fxns.py.
+
 The program will accept data from the user, calculate the recommended dose and store patient information to the database.
 
 
